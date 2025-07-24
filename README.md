@@ -19,7 +19,7 @@ Atualmente estou a aprofundar-me em **PHP**, mas também mexo com **SQL**, **MyS
 
 ## 📊 Um pouco das minhas estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllenLunardi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HellenLunardi&show_icons=true&theme=tokyonight)
 
 ---
 
