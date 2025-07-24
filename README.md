@@ -2,7 +2,7 @@
 
 Se você chegou até aqui, seja bem-vindo(a)!  
 Sou uma entusiasta de tecnologia, adoro explorar novas ferramentas e linguagens.  
-Atualmente estou a aprofundar-me em **PHP**, mas também mexo com **SQL**, **MySQL**, e um bocadinho de **Python** 🐍.
+Atualmente estou me aprofundando em **PHP**, mas também mexo com **SQL**, **MySQL**, e um bocadinho de **Python** 🐍.
 
 ---
 
